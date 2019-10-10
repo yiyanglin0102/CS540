@@ -1,0 +1,17 @@
+Test FindPath
+Successful compile: 7 points
+ta_output_nosol_astar.txt: test case passed: 5 points
+ta_output1_astar.txt: test case passed: 5 points
+ta_output2_astar.txt: test case passed: 5 points
+ta_output3_astar.txt: test case passed: 5 points
+output1_astar.txt: test case passed: 3 points
+output2_astar.txt: test case passed: 3 points
+output3_astar.txt: test case passed: 3 points
+ta_output_nosol_bfs.txt: test case passed: 5 points
+ta_output1_bfs.txt: output mismatch 
+ta_output2_bfs.txt: test case passed: 5 points
+ta_output3_bfs.txt: output mismatch 
+output1_bfs.txt: test case passed: 3 points
+output2_bfs.txt: test case passed: 3 points
+output3_bfs.txt: test case passed: 3 points
+Scores: 55
