@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="286152a6-0b87-494c-b7da-6b6d5f592dd6" name="Default Changelist" comment="" />
+    <list default="true" id="ed54ab6b-d546-43f1-9ed2-b957b56bd5b8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1RNbop86k7rGr44uCMVR0Aa8Wrd" />
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1UE8AHp1FpPPysMF7qDDe0IwX7z" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.alibabacloud.intellij.config.AccountConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -37,39 +41,35 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="TakeStones" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TakeStones" />
-      <module name="skeleton_code" />
-      <option name="PROGRAM_PARAMETERS" value="3 0 0" />
+    <configuration name="SentimentAnalysis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SentimentAnalysis" />
+      <module name="BayesNet" />
+      <option name="PROGRAM_PARAMETERS" value="3 sample_tests/train.txt 5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="TakeStones" />
-      <option name="PROGRAM_PARAMETERS" value="7 3 1 4 2 3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SentimentAnalysis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="286152a6-0b87-494c-b7da-6b6d5f592dd6" name="Default Changelist" comment="" />
-      <created>1569510678344</created>
+      <changelist id="ed54ab6b-d546-43f1-9ed2-b957b56bd5b8" name="Default Changelist" comment="" />
+      <created>1574910248031</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569510678344</updated>
-      <workItem from="1569510679863" duration="23000" />
-      <workItem from="1569726376664" duration="294000" />
-      <workItem from="1569785907264" duration="1420000" />
-      <workItem from="1570113657294" duration="15000" />
-      <workItem from="1570283424239" duration="4574000" />
-      <workItem from="1570306134629" duration="170000" />
-      <workItem from="1570306444124" duration="20002000" />
+      <updated>1574910248031</updated>
+      <workItem from="1574910251940" duration="1175000" />
+      <workItem from="1574946634145" duration="4706000" />
     </task>
     <servers />
   </component>

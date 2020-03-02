@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c54d06be-a1d3-4d6c-b128-3a6e154f787c" name="Default Changelist" comment="" />
+    <list default="true" id="0c39e8c4-8bb1-40a4-a3c8-bc671d7c24e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace (1).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlphaBetaPruning.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlphaBetaPruning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/skeleton_code/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/skeleton_code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/skeleton_code/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/skeleton_code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/skeleton_code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/skeleton_code/AlphaBetaPruning.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/skeleton_code/AlphaBetaPruning.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW3/skeleton-code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW3/skeleton-code/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1Rnc8Ndtu2P1iqHneQdomuEE1IM" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1S1Si9ZlQnL4ncclciF9BxaWj6K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -29,14 +46,7 @@
     <configuration name="TakeStones" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TakeStones" />
       <module name="skeleton_code" />
-      <option name="PROGRAM_PARAMETERS" value="7 3 1 4 2 3 " />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="TakeStones" />
-      <option name="PROGRAM_PARAMETERS" value="7 3 1 4 2 3 " />
+      <option name="PROGRAM_PARAMETERS" value="15 4 7 1 4 8 3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -47,16 +57,30 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c54d06be-a1d3-4d6c-b128-3a6e154f787c" name="Default Changelist" comment="" />
-      <created>1570306140312</created>
+      <changelist id="0c39e8c4-8bb1-40a4-a3c8-bc671d7c24e0" name="Default Changelist" comment="" />
+      <created>1570729732970</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570306140312</updated>
-      <workItem from="1570306143715" duration="282000" />
+      <updated>1570729732970</updated>
+      <workItem from="1570729734433" duration="1865000" />
+      <workItem from="1570739396579" duration="19000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -31,8 +31,8 @@ public class AlphaBetaPruning {
 		System.out.println("Value: " + value);
 		System.out.println("Number of Nodes Visited: " + visited);
 		System.out.println("Number of Nodes Evaluated: " + evaluation);
-		System.out.println("Max Depth Reached : " + maxDepth);
-		System.out.println("Avg Effective Branching Factor: " + average);
+		System.out.println("Max Depth Reached: " + maxDepth);
+		System.out.println("Avg Effective Branching Factor: " + String.format("%.1f", average));
 	}
 
 	/**

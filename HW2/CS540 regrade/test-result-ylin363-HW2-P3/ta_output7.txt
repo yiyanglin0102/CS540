@@ -1,0 +1,15 @@
+Output:
+Move: 8
+Value: 0.0
+Number of Nodes Visited: 733
+Number of Nodes Evaluated: 432
+Max Depth Reached : 5
+Avg Effective Branching Factor: 2.431893687707641
+
+Solution:
+Move: 12
+Value: 0.0
+Number of Nodes Visited: 733
+Number of Nodes Evaluated: 432
+Max Depth Reached: 5
+Avg Effective Branching Factor: 2.4

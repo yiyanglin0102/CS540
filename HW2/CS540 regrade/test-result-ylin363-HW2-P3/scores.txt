@@ -1,0 +1,23 @@
+Test TakeStones
+Successful compile: 5 points
+ta_output1.txt: output mismatch 
+ta_output2.txt: output mismatch 
+ta_output3.txt: output mismatch 
+ta_output4.txt: output mismatch 
+ta_output5.txt: output mismatch 
+ta_output6.txt: output mismatch 
+ta_output7.txt: output mismatch 
+ta_output8.txt: output mismatch 
+ta_output9.txt: output mismatch 
+output1.txt: output mismatch 
+output2.txt: output mismatch 
+output3.txt: output mismatch 
+Score by counting correct test cases: 5
+line 1 incorrect for 3 cases: 0 points
+line 2 correct for all test cases: 10 points
+line 3 correct for all test cases: 10 points
+line 4 correct for all test cases: 10 points
+line 5 incorrect for 12 cases: 0 points
+line 6 incorrect for 7 cases: 0 points
+Score by counting correct lines: 35
+FINAL SCORE: 35

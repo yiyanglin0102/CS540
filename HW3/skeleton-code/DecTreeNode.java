@@ -1,9 +1,9 @@
 /**
  * Possible class for internal organization of a decision tree. Included to show standardized output
  * method, print().
- * 
+ *
  * Do not modify. If you use, create child class DecTreeNodeImpl that inherits the methods.
- * 
+ *
  */
 public class DecTreeNode {
 	//If leaf, label to return.
@@ -22,7 +22,7 @@ public class DecTreeNode {
 		this.attribute = attribute;
 		this.threshold = threshold;
 	}
-	
+
 	public boolean isLeaf() {
 		return this.left == null && this.right == null;
 	}
